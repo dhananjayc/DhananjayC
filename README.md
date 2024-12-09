@@ -7,9 +7,12 @@ I am a Web Developer with a love for building functional, user-friendly web appl
 I share my learnings and experiences in web development on my blogs [dc-TechLogic](https://dc-techlogic.blogspot.com/) and [dc-logicVibes](https://dc-logicvibes.blogspot.com/), where I cover topics ranging from web development to productivity tips.
 
 ### </> Technologies I Work With
-Frontend: React.js, redux, HTML5, CSS3, JavaScript, AngularJs
+Frontend: React.js, Redux, React Native, HTML5, CSS3, JavaScript, AngularJs
+
 Backend: Node.js, Express.js
+
 Database: MongoDB, Mongoose
+
 Tools: Git, GitHub, Postman, VS Code
 
 ### 🏁 Goals
